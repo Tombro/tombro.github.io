@@ -1,0 +1,14 @@
+{
+  "name": "tombo.flense.de",
+  "homepage": "tombo.flense.de",
+  "authors": [
+    "Thomas Christiansen <tombo@flense.de>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "dependencies": {
+    "foundation-sites": "^6.2.0"
+  }
+}
